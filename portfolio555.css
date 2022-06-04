@@ -157,13 +157,14 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("") no-repeat center;
+    background-color:;
     height: 100vh;
     color: #fff;
     min-height: 500px;
     background-size: cover;
     background-attachment: fixed;
     font-family: 'Ubuntu', sans-serif;
+}
 .home .max-width{
   width: 100%;
   display: flex;
@@ -296,7 +297,7 @@ section .title::after{
 }
 /* skills section styling */
 .skills .title::after{
-    content: "what i know";
+    content: "what I know";
 }
 .skills .skills-content .column{
     width: calc(50% - 30px);
@@ -353,21 +354,26 @@ section .title::after{
     background: crimson;
 }
 .skills-content .right .html::before{
-    width: 90%;
+    width: 100%;
 }
 .skills-content .right .css::before{
-    width: 60%;
+    width: 100%;
 }
 .skills-content .right .js::before{
-    width: 80%;
+    width: 100%;
 }
-.skills-content .right .php::before{
-    width: 50%;
+.skills-content .right .python::before{
+    width: 100%;
 }
-.skills-content .right .mysql::before{
-    width: 70%;
+.skills-content .right .Bootstrap::before{
+    width: 100%;
 }
-/* teams section styling */
+.skills-content .right .PhotoshopGIMP::before{
+    width: 100%;
+}.skills-content .right .Illustration::before{
+    width: 100%;
+}
+/* projects section styling */
 .teams .title::after{
     content: "what I've done";
 }
@@ -734,6 +740,12 @@ footer span a:hover{
     width: 100%;
 }
 .skills-content .right .bootstrap::before{
+    width: 100%;
+}
+.skills-content .right .PhotoshopGIMP::before{
+    width: 100%;
+}
+.skills-content .right .Illustration::before{
     width: 100%;
 }
 /* teams section styling */
