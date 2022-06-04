@@ -164,7 +164,6 @@ section .title::after{
     background-size: cover;
     background-attachment: fixed;
     font-family: 'Ubuntu', sans-serif;
-}
 .home .max-width{
   width: 100%;
   display: flex;
@@ -174,11 +173,14 @@ section .title::after{
 }
 .home .home-content .text-1{
     font-size: 27px;
+    color: grey;
 }
+.name{color:crimson;}
 .home .home-content .text-2{
     font-size: 75px;
     font-weight: 600;
     margin-left: -3px;
+    color: black;
 }
 .home .home-content .text-3{
     font-size: 40px;
