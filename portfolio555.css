@@ -181,7 +181,7 @@ section .title::after{
     font-size: 75px;
     font-weight: 600;
     margin-left: -3px;
-    color: black;
+    color: #3a3b3d;
 }
 .home .home-content .text-3{
     font-size: 40px;
@@ -628,6 +628,7 @@ footer span a:hover{
     }
     .home .home-content .text-2{
         font-size: 60px;
+
     }
     .home .home-content .text-3{
         font-size: 32px;
@@ -750,9 +751,9 @@ footer span a:hover{
 .skills-content .right .Illustration::before{
     width: 100%;
 }
-/* teams section styling */
+/* Project section styling */
 .teams .title::after{
-    content: "who with me";
+    content: "what I've done";
 }
 .teams .carousel .card{
     background: #222;
