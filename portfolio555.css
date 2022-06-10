@@ -401,7 +401,7 @@ section .title::after{
 .projects .carousel .card25:hover .box{
     transform: scale(1.05);
 }
-.pojects .carousel .card25 .text{
+.projects .carousel .card25 .text{
     font-size: 25px;
     font-weight: 500;
     margin: 10px 0 7px 0;
