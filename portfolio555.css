@@ -909,7 +909,7 @@ footer span a:hover{
   color: #2434c7;
   background: none;
 }
-
+.not-allowed {cursor: not-allowed;}
 
 @import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
 
