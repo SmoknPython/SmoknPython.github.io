@@ -803,7 +803,7 @@ footer span a:hover{
     margin: 0 5px;
     outline: none!important;
     border-radius: 50%;
-    border: 2px solid crimson!important;
+    border: 2px solid c#2434c7!important;
     transition: all 0.3s ease;
 }
 .owl-dot.active{
@@ -812,7 +812,7 @@ footer span a:hover{
 }
 .owl-dot.active,
 .owl-dot:hover{
-    background: crimson!important;
+    background: #2434c7!important;
 }
 /* contact section styling */
 .contact .title::after{
