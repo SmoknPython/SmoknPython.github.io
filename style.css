@@ -355,26 +355,7 @@ section .title::after{
     left: 0;
     top: 0;
     background: #2434c7;
-}
-.skills-content .right .html::before{
-    width: 100%;
-}
-.skills-content .right .css::before{
-    width: 100%;
-}
-.skills-content .right .js::before{
-    width: 100%;
-}
-.skills-content .right .python::before{
-    width: 100%;
-}
-.skills-content .right .Bootstrap::before{
-    width: 100%;
-}
-.skills-content .right .PhotoshopGIMP::before{
-    width: 100%;
-}.skills-content .right .Illustration::before{
-    width: 100%;
+
 }
 /* projects section styling */
 .projects .title::after{
