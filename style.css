@@ -356,7 +356,25 @@ section .title::after{
     top: 0;
     background: #2434c7;
 }
-
+.skills-content .right .html::before{
+    width: 100%;
+}
+.skills-content .right .css::before{
+    width: 100%;
+}
+.skills-content .right .js::before{
+    width: 100%;
+}
+.skills-content .right .python::before{
+    width: 100%;
+}
+.skills-content .right .Bootstrap::before{
+    width: 100%;
+}
+.skills-content .right .PhotoshopGIMP::before{
+    width: 100%;
+}.skills-content .right .Illustration::before{
+    width: 100%;
 }
 /* projects section styling */
 .projects .title::after{
@@ -620,27 +638,6 @@ footer span a:hover{
     top: 0;
     background: #2434c7;
 }
-.skills-content .right .html::before{
-    width: 100%;
-}
-.skills-content .right .css::before{
-    width: 100%;
-}
-.skills-content .right .js::before{
-    width: 100%;
-}
-.skills-content .right .python::before{
-    width: 100%;
-}
-.skills-content .right .bootstrap::before{
-    width: 100%;
-}
-.skills-content .right .PhotoshopGIMP::before{
-    width: 100%;
-}
-.skills-content .right .Illustration::before{
-    width: 100%;
-}
 
 .owl-dots{
     text-align: center;
@@ -877,3 +874,6 @@ a{color: inherit;}
 .wrapper .youtube:hover .tooltip::before {
   background: #CD201F;
   color: #ffffff;
+
+
+
