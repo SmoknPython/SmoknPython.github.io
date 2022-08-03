@@ -100,7 +100,7 @@ section .title::after{
  transition: all 0.3s ease;
 }
 .navbar.sticky .logo a span{
- color: #fff;
+ color:  color: #222;
 }
 .navbar .menu li{
  list-style: none;
@@ -174,7 +174,9 @@ section .title::after{
 }
 .home .home-content .text-1{
  font-size: 27px;
+ color: #dcddde;
 }
+.name{color:#74767d;}
 .home .home-content .text-2{
  font-size: 75px;
  font-weight: 600;
