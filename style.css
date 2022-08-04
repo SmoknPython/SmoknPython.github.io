@@ -96,11 +96,11 @@ section .title::after{
  font-weight: 600;
 }
 .navbar .logo a span{
- color: #2434c7;
+ color: #fff;
  transition: all 0.3s ease;
 }
 .navbar.sticky .logo a span{
- color:  color: #222;
+ color:  color: #171616;
 }
 .navbar .menu li{
  list-style: none;
