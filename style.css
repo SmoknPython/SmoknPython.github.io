@@ -176,8 +176,8 @@ section .title::after{
  font-size: 27px;
  color: #dcddde;
 }
-.name{color:#74767d;}
 .home .home-content .text-2{
+ color:#74767d;
  font-size: 75px;
  font-weight: 600;
  margin-left: -3px;
